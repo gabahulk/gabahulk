@@ -1,20 +1,19 @@
 # 👾 Hey there! I’m Gaba 👾
+### Game Developer Specializing in Player-Centric Experiences
 
 I’m a game developer with a passion for creating systemic games where player choices drive unique experiences.
 
-# Experience
-I have:
-* Bachelors degree in CS
-* 8 Years of experience working with games
-* Worked with multiple companies, from mobile to PC games
-* 4 years of experience with Unity
-* 2 years of experience with Godot
+# Experience  
+- 🎓 Bachelor’s in Computer Science  
+- 8 years in game development across mobile and PC  
+- 4 years with Unity | 2 years with Godot  
+- Collaborated on mobile hits and strategic PC titles
 
 # Highlights
 
 ## [Vlogger Go Viral](https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=en)
 An idle mobile game where you play as an upcoming YouTuber trying to grow your channel.
-I've worked as the main developer for this project for an year, adding new features, improving code and keeping the game bug-free.
+Focused on feature development, code optimization, and bug management.
 
 <p align="center">
   <img src="gifs/vloggergoviral.gif" alt="animated" />
@@ -23,7 +22,7 @@ I've worked as the main developer for this project for an year, adding new featu
 
 ## [Skydome](https://store.steampowered.com/app/708550/Skydome/)
 An exciting and strategic multiplayer Tower Defense PC game.
-I've worked as one of the game play developers, adding new heroes to the game with 3D animations, physics and all the challenges that multiplayer game development entails.
+Multiplayer game development, character creation, 3D animation, and physics.
 
 <p align="center">
   <img src="gifs/skydome.gif" alt="animated" />
@@ -31,7 +30,7 @@ I've worked as one of the game play developers, adding new heroes to the game wi
 
 ## [PKXD](https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd&hl=pt)
 A multiplayer game with and open-world to live incredible adventures!
-I've worked as a game developer, adding new flows to the game's IAP store, working on the game's event and fixing bugs.
+Reworked game's IAP store, implemented new events and fixed bugs.
 
 <p align="center">
   <img src="gifs/pkxd.gif" alt="animated" />
@@ -40,7 +39,7 @@ I've worked as a game developer, adding new flows to the game's IAP store, worki
 
 ## [Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 AWS Cloud Quest is the only 3D role-playing game to help you build practical AWS Cloud skills.
-Worked in this project implementing new learning paths, learning path rewards and the events flow.
+Implemented new learning paths, learning path rewards and the events.
 
 <p align="center">
   <img src="gifs/cloud_quest.gif" alt="animated" />
@@ -62,5 +61,5 @@ Recoil is a minimalist 2D Platformer where you can only move by shooting.
   <img src="gifs/recoil.gif" alt="animated" />
 </p>
 
----
-E-mail me at gaba@liberula.com .Let’s make something unforgettable together! 🚀
+---  
+E-mail me at [gaba@liberula.com](mailto:gaba@liberula.com) — Let’s make unforgettable game experiences together! 🚀
