@@ -16,40 +16,51 @@ I have:
 An idle mobile game where you play as an upcoming YouTuber trying to grow your channel.
 I've worked as the main developer for this project for an year, adding new features, improving code and keeping the game bug-free.
 
-![](gifs/vloggergoviral.gif)
+<p align="center">
+  <img src="gifs/vloggergoviral.gif" alt="animated" />
+</p>
+
 
 ## [Skydome](https://store.steampowered.com/app/708550/Skydome/)
 An exciting and strategic multiplayer Tower Defense PC game.
 I've worked as one of the game play developers, adding new heroes to the game with 3D animations, physics and all the challenges that multiplayer game development entails.
 
-![](gifs/skydome.gif)
+<p align="center">
+  <img src="gifs/skydome.gif" alt="animated" />
+</p>
 
 ## [PKXD](https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd&hl=pt)
 A multiplayer game with and open-world to live incredible adventures!
 I've worked as a game developer, adding new flows to the game's IAP store, working on the game's event and fixing bugs.
 
-![](gifs/pkxd.gif)
+<p align="center">
+  <img src="gifs/pkxd.gif" alt="animated" />
+</p>
 
 
 ## [Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 AWS Cloud Quest is the only 3D role-playing game to help you build practical AWS Cloud skills.
 Worked in this project implementing new learning paths, learning path rewards and the events flow.
 
-![](gifs/cloud_quest.gif)
-
+<p align="center">
+  <img src="gifs/cloud_quest.gif" alt="animated" />
+</p>
 
 # Latest Projects
 
 ## [Tower of Typing](https://store.steampowered.com/app/2976070/Tower_of_Typing/)
 Tower of Typing is a roguelite typing game where you must type to cast spells! Wishlist it!
 
-![](gifs/tower_of_typing.gif)
+<p align="center">
+  <img src="gifs/tower_of_typing.gif" alt="animated" />
+</p>
 
 ## [Recoil](https://store.steampowered.com/app/1949570/Recoil/)
 Recoil is a minimalist 2D Platformer where you can only move by shooting.
 
-![](gifs/recoil.gif)
-
+<p align="center">
+  <img src="gifs/recoil.gif" alt="animated" />
+</p>
 
 ---
 E-mail me at gaba@liberula.com .Let’s make something unforgettable together! 🚀
