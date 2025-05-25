@@ -68,5 +68,6 @@ Designed for clean separation, modularity, and scalability — without sacrifici
 <p align="center">
   <img src="gifs/recoil.gif" alt="animated" />
 </p>
+
 ---  
 E-mail me at [gaba@liberula.com](mailto:gaba@liberula.com) — Let’s make unforgettable game experiences together! 🚀
