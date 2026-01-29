@@ -5,8 +5,8 @@ I’m a game developer with a passion for creating systemic games where player c
 
 # Experience  
 - 🎓 Bachelor’s in Computer Science  
-- 8 years in game development across mobile and PC  
-- 5 years with Unity | 2 years with Godot  
+- 9 years in game development across mobile, PC, and web.  
+- Unity | Godot  
 - Collaborated on mobile hits and strategic PC titles
 
 # Highlights
