@@ -1,73 +1,135 @@
-# 👾 Hey there! I’m Gaba 👾
-### Game Developer Specializing in Player-Centric Experiences
+# 👾 Hey, I'm Gaba
 
-I’m a game developer with a passion for creating systemic games where player choices drive unique experiences.
+### Gameplay Programmer & Systems Designer
 
-# Experience  
-- 🎓 Bachelor’s in Computer Science  
-- 9 years in game development across mobile, PC, and web.  
-- Unity | Godot  
-- Collaborated on mobile hits and strategic PC titles
+I build gameplay-driven experiences focused on systemic interaction, player expression, and memorable moments.
 
-# Highlights
+Over the last 9 years I've worked across mobile, multiplayer, PC, and web games, from indie studios to Amazon Web Services (AWS), developing gameplay systems, live features, rapid prototypes, multiplayer experiences, and performance optimizations.
 
-## [Vlogger Go Viral](https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=en)
-An idle mobile game where you play as an upcoming YouTuber trying to grow your channel.
-Focused on feature development, code optimization, and bug management.
+# Experience
 
-<p align="center">
-  <img src="gifs/vloggergoviral.gif" alt="animated" />
-</p>
+- 🎓 Bachelor’s in Computer Science
+- 9 years in game development
+- Unity | Godot
+- Mobile | PC | Multiplayer | Web
+- Gameplay Systems
+- Rapid Prototyping
+- Performance Optimization
 
-
-## [Skydome](https://store.steampowered.com/app/708550/Skydome/)
-An exciting and strategic multiplayer Tower Defense PC game.
-Multiplayer game development, character creation, 3D animation, and physics.
-
-<p align="center">
-  <img src="gifs/skydome.gif" alt="animated" />
-</p>
-
-## [PKXD](https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd&hl=pt)
-A multiplayer game with and open-world to live incredible adventures!
-Reworked game's IAP store, implemented new events and fixed bugs.
-
-<p align="center">
-  <img src="gifs/pkxd.gif" alt="animated" />
-</p>
-
-
-## [Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
-AWS Cloud Quest is the only 3D role-playing game to help you build practical AWS Cloud skills.
-Implemented new learning paths, learning path rewards and the events.
-
-<p align="center">
-  <img src="gifs/cloud_quest.gif" alt="animated" />
-</p>
-
-## [Recoil](https://store.steampowered.com/app/1949570/Recoil/)
-Recoil is a minimalist 2D Platformer where you can only move by shooting.
-
-<p align="center">
-  <img src="gifs/recoil.gif" alt="animated" />
-</p>
-
-# Latest Projects
+# Featured Projects
 
 ## [Tower of Typing](https://store.steampowered.com/app/2976070/Tower_of_Typing/)
-Tower of Typing is a roguelite typing game where you must type to cast spells! Wishlist it!
+
+A roguelite spellcasting game where players type words to cast customizable spells and survive chaotic dungeon runs.
+
+Focused on:
+- Gameplay systems
+- Combat feel
+- Procedural encounters
+- Typing-based spellcasting
+- Player expression through spell customization
 
 <p align="center">
-  <img src="gifs/tower_of_typing.gif" alt="animated" />
+  <img src="gifs/tower_of_typing.gif" alt="Tower of Typing gameplay gif" />
 </p>
 
-## [R.A.K](https://github.com/liberula/rak)
-A composable, inspector-driven architecture framework for Godot.
-Designed for clean separation, modularity, and scalability — without sacrificing editor integration.
+---
+
+## [Skydome](https://store.steampowered.com/app/708550/Skydome/)
+
+A multiplayer hybrid between Tower Defense and Action Combat.
+
+Worked on:
+- Multiplayer gameplay
+- Character systems
+- Physics interactions
+- 3D animation pipelines
 
 <p align="center">
-  <img src="gifs/recoil.gif" alt="animated" />
+  <img src="gifs/skydome.gif" alt="Skydome gameplay gif" />
 </p>
 
----  
-E-mail me at [gaba@liberula.com](mailto:gaba@liberula.com) — Let’s make unforgettable game experiences together! 🚀
+---
+
+## [PKXD](https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd&hl=pt)
+
+A large-scale multiplayer social game focused on exploration, customization, and live events.
+
+Worked on:
+- In-game store systems
+- Event implementation
+- Bug fixing and live support
+
+<p align="center">
+  <img src="gifs/pkxd.gif" alt="PKXD gameplay gif" />
+</p>
+
+---
+
+## [Vlogger Go Viral](https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=en)
+
+An idle/mobile game about growing a content creator empire.
+
+Worked on:
+- Feature implementation
+- Code optimization
+- Mobile performance
+- Bug management
+
+<p align="center">
+  <img src="gifs/vloggergoviral.gif" alt="Vlogger Go Viral gameplay gif" />
+</p>
+
+---
+
+## [Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+AWS Cloud Quest is a 3D role-playing game designed to teach practical AWS Cloud skills through gameplay.
+
+Worked on:
+- Learning paths
+- Reward systems
+- Event systems
+
+<p align="center">
+  <img src="gifs/cloud_quest.gif" alt="Cloud Quest gameplay gif" />
+</p>
+
+---
+
+## [Recoil](https://store.steampowered.com/app/1949570/Recoil/)
+
+A minimalist 2D platformer where movement is only possible through weapon recoil.
+
+<p align="center">
+  <img src="gifs/recoil.gif" alt="Recoil gameplay gif" />
+</p>
+
+# Prototype Experiments
+
+## Project Roulette Hero
+
+A gameplay prototype focused on high-tension decision making through a customizable roulette-based combat system.
+
+Focused on:
+- Gameplay readability
+- Emotional tension
+- Build customization
+- Risk vs reward systems
+- Rapid gameplay iteration
+
+<p align="center">
+  <img src="gifs/roulette_hero.png" alt="Roulette Hero gameplay image" />
+</p>
+
+---
+
+# Links
+
+- LinkedIn: https://www.linkedin.com/in/gabrielfpaula
+- itch.io: https://gabahulk.itch.io
+- Liberula: https://liberula.com
+
+---
+
+📫 Contact: [gaba@liberula.com](mailto:gaba@liberula.com)
