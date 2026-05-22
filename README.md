@@ -119,7 +119,7 @@ Focused on:
 - Rapid gameplay iteration
 
 <p align="center">
-  <img src="gifs/roulette_hero.png" alt="Roulette Hero gameplay image" />
+  <img src="gifs/hero.png" alt="Roulette Hero gameplay image" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ Focused on:
 # Links
 
 - LinkedIn: https://www.linkedin.com/in/gabrielfpaula
-- itch.io: https://gabahulk.itch.io
+- itch.io: https://liberula.itch.io/
 - Liberula: https://liberula.com
 
 ---
